@@ -6,8 +6,6 @@ Estudio completo, método y margen de error: https://webs.facilo.es/estudios/web
 
 Origen de los datos: OpenStreetMap, © colaboradores de OpenStreetMap. Este resumen se publica con la licencia ODbL. Solo incluye cifras agregadas: no hay ningún dato de negocios concretos.
 
-Cita: «Estudio de Facilo sobre las webs de la hostelería andaluza, noviembre de 2026».
-
 ## Archivo
 
 [`datos/datos-por-provincia.csv`](datos/datos-por-provincia.csv): una fila para toda Andalucía y una por provincia. Los porcentajes llevan un decimal.
@@ -31,6 +29,12 @@ Cita: «Estudio de Facilo sobre las webs de la hostelería andaluza, noviembre d
 | `pct_algun_fallo_basico` | % con al menos un fallo básico: no funciona, sin candado o no adaptada al móvil | `medidas` |
 
 Las muestras provinciales son pequeñas y su margen de error es amplio: el dato fiable es el de Andalucía, no una clasificación entre provincias.
+
+## Cómo citar
+
+Facilo (2026). *Webs de la hostelería andaluza, 2026: datos por provincia* [Conjunto de datos]. https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/
+
+En un texto basta con «Estudio de Facilo sobre las webs de la hostelería andaluza, noviembre de 2026», con un enlace al [estudio completo](https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/). Para otros formatos (APA, BibTeX), usa el botón «Cite this repository» de esta página, que GitHub genera a partir de [`CITATION.cff`](CITATION.cff).
 
 ## Licencia
 
