@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+type: dataset
+title: "Webs de la hostelería andaluza, 2026: datos por provincia"
+abstract: "Resumen por provincia de la revisión de 1.537 webs de bares, restaurantes y cafeterías de Andalucía, hecha por Facilo el 13 de noviembre de 2026: si la web funciona, si se ve bien en el móvil, si muestra la carta con precios en texto, si tiene un teléfono que se pueda pulsar, reservas y versión en inglés."
+authors:
+  - name: Facilo
+    website: "https://facilo.es"
+    email: info@facilo.es
+date-released: 2026-11-16
+url: "https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/"
+repository-code: "https://github.com/Facilo-es/estudio-webs-hosteleria-andalucia-2026"
+license: ODbL-1.0
+keywords:
+  - hostelería
+  - restaurantes
+  - Andalucía
+  - páginas web
+  - OpenStreetMap
