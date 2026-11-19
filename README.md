@@ -1,5 +1,7 @@
 # Webs de la hostelería andaluza, 2026: datos por provincia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24357589.svg)](https://doi.org/10.5281/zenodo.24357589)
+
 Resumen por provincia de la revisión de 1.537 webs de bares, restaurantes y cafeterías de Andalucía, hecha por Facilo el 13 de noviembre de 2026. Mide si la web funciona, si se ve bien en el móvil, si muestra la carta con precios en texto, si tiene un teléfono que se pueda pulsar, reservas y versión en inglés.
 
 Estudio completo, método y margen de error: https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/
@@ -32,7 +34,9 @@ Las muestras provinciales son pequeñas y su margen de error es amplio: el dato 
 
 ## Cómo citar
 
-Facilo (2026). *Webs de la hostelería andaluza, 2026: datos por provincia* [Conjunto de datos]. https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/
+Facilo (2026). *Webs de la hostelería andaluza, 2026: datos por provincia* [Conjunto de datos] (versión v1.0). Zenodo. https://doi.org/10.5281/zenodo.24357589
+
+El DOI 10.5281/zenodo.24357589 apunta a esta versión. Para citar siempre la última versión, usa 10.5281/zenodo.24357588.
 
 En un texto basta con «Estudio de Facilo sobre las webs de la hostelería andaluza, noviembre de 2026», con un enlace al [estudio completo](https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/). Para otros formatos (APA, BibTeX), usa el botón «Cite this repository» de esta página, que GitHub genera a partir de [`CITATION.cff`](CITATION.cff).
 
