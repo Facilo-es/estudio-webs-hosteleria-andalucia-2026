@@ -7,7 +7,16 @@ authors:
   - name: Facilo
     website: "https://facilo.es"
     email: info@facilo.es
-date-released: 2026-11-16
+date-released: 2026-11-19
+version: v1.0
+doi: 10.5281/zenodo.24357589
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24357588
+    description: Todas las versiones (Zenodo)
+  - type: doi
+    value: 10.5281/zenodo.24357589
+    description: Versión v1.0 (Zenodo)
 url: "https://webs.facilo.es/estudios/webs-hosteleria-andalucia-2026/"
 repository-code: "https://github.com/Facilo-es/estudio-webs-hosteleria-andalucia-2026"
 license: ODbL-1.0
